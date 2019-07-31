@@ -4,6 +4,8 @@ This is an exercise in Node and Express. It's a simple blogging web application 
 
 ![simple blog image](./public/images/simple-blog-image1.png)  
 
+![simple blog image 2](./public/images/simple-blog-image2.png)  
+
 It was created by following along the "[The Complete 2019 Web Development Bootcamp](https://www.udemy.com/the-complete-web-development-bootcamp/)" Udemy course.  
 
 ---  
